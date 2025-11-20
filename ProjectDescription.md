@@ -52,6 +52,7 @@ Key Findings:
 <br/>
 Strong relationship between the predictors and the response variable, verified in the diagnostic plots, having no issues with linearity, heteroscedasticity, distribution of error terms, or influential points substantially affecting the regression. Q-Q plot indicated that the residuals came from a normal distribution with a mean of 0 and a variance of 1
 <br/>
+<br/>
 Table of coefficients:
 <br/>
   <img width="539" height="306" alt="image" src="https://github.com/user-attachments/assets/32308a7b-9e0f-4ff6-95df-7d3dbb0c4602" />
