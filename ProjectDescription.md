@@ -43,14 +43,18 @@ Tools/Methodology:
 * Analyzed ANOVA table, residual plots, and Cook's distance diagnostic plot
   
 Key Findings:
+<br/>
 <img width="632" height="203" alt="image" src="https://github.com/user-attachments/assets/aed5122a-e9ea-4cc7-8e63-70cd657271d8" />
 *  The F-test gives us a p-value of approximately 0, which is less than a significance level of 0.05 so there is sufficient evidence to conclude that one or more of our predictors have non-zero coefficients, so our model is statistically significant.
-*  The regression model showed that 77.86% ($r^2$ value of 0.7786) of the variability in sleep efficiency could be explained by the studied predictors  
+*  The regression model showed that 77.86% ($r^2$ value of 0.7786) of the variability in sleep efficiency could be explained by the studied predictors 
 <br/>
 <img width="548" height="429" alt="image" src="https://github.com/user-attachments/assets/d6d60187-429d-422a-b17e-6b4e856b3746" />
+<br/>
 * Strong relationship between the predictors and the response variable, verified in the diagnostic plots, having no issues with linearity, heteroscedasticity, distribution of error terms, or influential points substantially affecting the regression
 *  Q-Q plot indicated that the residuals came from a normal distribution with a mean of 0 and a variance of 1
 *  Table of coefficients:
+<br/>
   <img width="539" height="306" alt="image" src="https://github.com/user-attachments/assets/32308a7b-9e0f-4ff6-95df-7d3dbb0c4602" />
+<br/>
 * All predictors statistically significant except for caffeine consumption
 
