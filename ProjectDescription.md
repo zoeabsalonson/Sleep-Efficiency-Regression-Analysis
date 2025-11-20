@@ -36,7 +36,7 @@ Tools/Methodology:
     - $x_7$: The number of times the individual woke up during the night
   * We used a standard multiple regression model to fit a “line” of the form:
     $Y_i = \beta_0 + \beta_1x_{i_1} + \beta_2x_{i_2} + \beta_3x_{i_3} + \beta_4x_{i_4} + \beta_5x_{i_5} + \beta_6x_{i_6} + \beta_7x_{i_7}$,
-    where $Y_i$ is the predicted sleep efficiency for for individual number $i\quad(i = 1, 2, …, 386)$
-    and $x_{i_j}$ is the value of the predictor variable $x_k\quad(k = 1, 2, …, 7)$ for individual $i\quad(i= 1, 2, …, 386)$.
+    where $Y_i$ is the predicted sleep efficiency for for individual number $i$ $(i = 1, 2, …, 386)$
+    and $x_{i_j}$ is the value of the predictor variable $x_k$ $(k = 1, 2, …, 7)$ for individual $i$ $(i= 1, 2, …, 386)$.
   
 Key Findings:
