@@ -20,5 +20,6 @@ Goal:
     - Number of awakenings
 * Run a multiple linear regression using the above factors as predictors in a
   model of the form:
+  $Y_i = \beta_0 + \beta_1x_{i_1} + \beta_2x_{i_2} + \beta_3x_{i_3} + \beta_4x_{i_4} + \beta_5x_{i_5}$ + \beta_6x_{i_6} + \beta_7x_{i_7}$
   <img width="533" height="47" alt="image" src="https://github.com/user-attachments/assets/ede158c1-5e37-417d-93ce-988ea0933a0f" />
   with each $x_{i_k}$ representing different predictor variables mentioned above.
